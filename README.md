@@ -8,7 +8,7 @@ Hey! So I built this after realizing I had like 50 PDFs of lecture notes scatter
 
 Yeah. This tool fixes that.
 
-It takes all your PDFs, reads them, finds important stuff, and creates an actual study guide. Plus it uses AI (Claude/ChatGPT) to summarize everything in a way that actually makes sense. No more ctrl+F-ing through 10 different files at midnight.
+It takes all your PDFs, reads them, finds important stuff, and creates an actual study guide. Plus, it uses AI (Claude/ChatGPT) to summarise everything in a way that actually makes sense. No more ctrl+F-ing through 10 different files at midnight.
 
 ## Why I Made This
 
